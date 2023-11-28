@@ -1,4 +1,4 @@
-<img style="width: 1002px; height: 308px;" alt="banner" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU">
+<img style="width: 1002px; height: 308px;" alt="banner" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 <h1 align="center">Hi 👋, I'm Pravindu Bhashitha</h1>
 <h3 align="center">An IT undergraduate from University of Moratuwa, Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
