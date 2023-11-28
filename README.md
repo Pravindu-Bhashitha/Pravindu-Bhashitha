@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="[https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)"></img>
+<img align="center" alt="Coding" width="1000" src="https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif"></img>
 <h1 align="center">Hi 👋, I'm Pravindu Bhashitha</h1>
 <h3 align="center">An IT undergraduate from University of Moratuwa, Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
